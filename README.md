@@ -1,10 +1,10 @@
 # FinancesManagement (Trabalho Académico)
 
-Aplicação que permite controlar o orçamento do utilizador
-É possivel introduzir um saldo na página incial da aplicação
-Colocar limites na secção "Orçamentos" que depois vai comparar com os valores introduzidos na secção "Despesas"
-Foi desenvolvida em âmbito académico como projeto da cadeira de Tecnologias Web.
-Foi usado Javascript, HTML e CSS para o desenvolvimento da aplicação.
+Aplicação que permite controlar o orçamento do utilizador <br>
+É possivel introduzir um saldo na página incial da aplicação<br>
+Colocar limites na secção "Orçamentos" que depois vai comparar com os valores introduzidos na secção "Despesas"<br>
+Foi desenvolvida em âmbito académico como projeto da cadeira de Tecnologias Web.<br>
+Foi usado Javascript, HTML e CSS para o desenvolvimento da aplicação.<br>
 
 
 ## WEB VIEW
