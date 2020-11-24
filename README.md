@@ -1,4 +1,4 @@
-# FinancesManagement (Trabalho Académico)
+# FinancesManagement
 
 ## Português
 Aplicação que permite controlar o orçamento do utilizador <br>
