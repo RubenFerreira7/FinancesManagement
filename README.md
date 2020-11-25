@@ -11,7 +11,7 @@ Foi usado Javascript, HTML e CSS para o desenvolvimento da aplicação.<br>
 Application that allows control the user's budget<br>
 It is possible to enter a balance on the home page of the application <br>
 Place limits in the "Orçamentos" section that will compare with the amounts entered in the "Despesas" section <br>
-It was developed as a project for the "Tecnologias Web" course. <br>
+It was developed as a project for the Web Technologies  course unit. <br>
 Javascript, HTML and CSS were used to develop the application. <br>
 
 
